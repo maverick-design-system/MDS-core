@@ -1,4 +1,4 @@
-# Design System Core
+# Maverick Design System Core
 
 The foundational codebase for our Design System — a scalable, accessible, and developer-friendly UI library built for startups and growing teams. It includes reusable components, design tokens, theming logic, and utility hooks to speed up modern product development.
 
